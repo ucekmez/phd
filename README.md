@@ -1,3 +1,3 @@
-# Internet of Things (IoTs) Security:Intrusion Detection using Deep Learning
+# Deep Learning-Based Security Solutions in IoT Networks
 
 This repo includes the source code for the paper
